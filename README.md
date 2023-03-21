@@ -1,0 +1,2 @@
+# pythonPlatzi
+Notas python Platzi
